@@ -136,6 +136,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="Updates 📢", url="https://t.me/JujutsuHighNetwork"
+        ), 
         InlineKeyboardButton(
             text="Anime 🌐", url="https://telegram.dog/Anime_Campus"
         ),
