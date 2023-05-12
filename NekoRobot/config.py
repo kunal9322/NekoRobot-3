@@ -16,16 +16,16 @@ class Config(object):
 
     API_ID = 16743442  # integer value, dont use ""
     API_HASH = "12bbd720f4097ba7713c5e40a11dfd2a"
-    TOKEN = "6286654828:AAF0hBZNbzIq2Ajvb9-Zww5mo0VioOGymyY"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "6297653004:AAEWExxUytiz21q011qRixb7AxxTwEogdNo"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     STRING_SESSION = ""
     REDIS_URL = "redis://default:neko69@redis-18084.c289.us-west-1-2.ec2.cloud.redislabs.com:18084/Neko-Free-db"
     MONGO_DB = "NekoRobot"
     HELP_IMG = ""
     TEMP_DOWNLOAD_DIRECTORY = "./"
     MONGO_DB_URI = "mongodb+srv://sonu55:sonu55@cluster0.vqztrvk.mongodb.net/?retryWrites=true&w=majority"
-    OWNER_ID = 5885920877  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 6299128233  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "MH17_KUNAL"
-    SUPPORT_CHAT = "Anime_Krew"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "JHBots"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
         -1001935950378
     )  # Prints any new group the bot is added to, prints just the name and ID.
@@ -37,11 +37,11 @@ class Config(object):
     SQLALCHEMY_DATABASE_URI = "postgres://brmhwhgf:Eq_ZuGoNei_j50ST1iGf7WMymc6IO9vf@hattie.db.elephantsql.com/brmhwhgf"  # needed for any database modules
     DB_URL = "postgres://brmhwhgf:Eq_ZuGoNei_j50ST1iGf7WMymc6IO9vf@hattie.db.elephantsql.com/brmhwhgf"
     LOAD = []
-    BOT_USERNAME = "Wolfwood_Bot"
+    BOT_USERNAME = "Makima_X_Bot"
     ARQ_API_URL = "arq.hamker.dev"
     ARQ_API_KEY = "CPYPCC-ZGUYAQ-RUMHTL-KMEAYY-ARQ"
     ERROR_LOGS = -1001935950378
-    BOT_NAME = "ᴡᴏʟғᴡᴏᴏᴅ"
+    BOT_NAME = "Makima"
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     OPENWEATHERMAP_ID = ""
     WEBHOOK = False
