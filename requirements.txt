@@ -1,4 +1,5 @@
 nekos.py
+pretty_errors
 uvloop
 cryptography==40.0.2
 future
