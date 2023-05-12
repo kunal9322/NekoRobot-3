@@ -134,25 +134,21 @@ buttons = [
         )
     ],
     [
+        InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Updates 📢", url="https://t.me/JujutsuHighNetwork"
-        ), 
-    ], 
-    [
-        InlineKeyboardButton(
-            text="Anime 🌐", url="https://telegram.dog/Anime_Campus"
+            text="Anime🌀", url="https://t.me/Anime_Campus"
         ),
     ],
     [
         InlineKeyboardButton(
             text="Support 🚑", url=f"https://telegram.dog/{SUPPORT_CHAT}"
         ),
-     ], 
-     [
-        InlineKeyboardButton(text="Help And Command", callback_data="help_back"),
+        InlineKeyboardButton(
+            text="Updates 📢", url="https://t.me/JujutsuHighNetwork"
         ),
-     ],
+    ],
 ]
+
 
 HELP_STRINGS = """
 *Main* commands available:
