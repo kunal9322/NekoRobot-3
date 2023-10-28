@@ -31,7 +31,7 @@ import time
 
 import aiohttp
 import httpx
-import pymongo
+#import pymongo
 import spamwatch
 import telegram.ext as tg
 from aiohttp import ClientSession
