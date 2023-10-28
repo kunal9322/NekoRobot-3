@@ -36,7 +36,7 @@ import spamwatch
 import telegram.ext as tg
 from aiohttp import ClientSession
 from httpx import AsyncClient, Timeout
-from motor import motor_asyncio
+#from motor import motor_asyncio
 from odmantic import AIOEngine
 from pymongo import MongoClient
 from pyrogram import Client
