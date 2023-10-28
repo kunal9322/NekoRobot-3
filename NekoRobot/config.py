@@ -16,32 +16,32 @@ class Config(object):
 
     API_ID = 16743442  # integer value, dont use ""
     API_HASH = "12bbd720f4097ba7713c5e40a11dfd2a"
-    TOKEN = "6297653004:AAEWExxUytiz21q011qRixb7AxxTwEogdNo"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    STRING_SESSION = ""
+    TOKEN = "6410782788:AAHFmxIK2349KvqF1lBd8c_m3dHj_qgoKk0"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    STRING_SESSION = "BHatsGroup"
     REDIS_URL = "redis://default:neko69@redis-18084.c289.us-west-1-2.ec2.cloud.redislabs.com:18084/Neko-Free-db"
-    MONGO_DB = "NekoRobot"
+    MONGO_DB = "Wolfwood"
     HELP_IMG = ""
     TEMP_DOWNLOAD_DIRECTORY = "./"
     MONGO_DB_URI = "mongodb+srv://sonu55:sonu55@cluster0.vqztrvk.mongodb.net/?retryWrites=true&w=majority"
     OWNER_ID = 6299128233  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "MH17_KUNAL"
-    SUPPORT_CHAT = "JHBots"  # Your own group for support, do not add the @
+    OWNER_USERNAME = "BIackHatDev"
+    SUPPORT_CHAT = ""  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001935950378
+        -1002058050288
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001935950378
+        -1002058050288
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = "postgres://brmhwhgf:Eq_ZuGoNei_j50ST1iGf7WMymc6IO9vf@hattie.db.elephantsql.com/brmhwhgf"  # needed for any database modules
     DB_URL = "postgres://brmhwhgf:Eq_ZuGoNei_j50ST1iGf7WMymc6IO9vf@hattie.db.elephantsql.com/brmhwhgf"
     LOAD = []
-    BOT_USERNAME = "Makima_X_Bot"
+    BOT_USERNAME = "Wolfwood_xBot"
     ARQ_API_URL = "arq.hamker.dev"
     ARQ_API_KEY = "CPYPCC-ZGUYAQ-RUMHTL-KMEAYY-ARQ"
-    ERROR_LOGS = -1001935950378
-    BOT_NAME = "Makima"
+    ERROR_LOGS = -1002058050288
+    BOT_NAME = "𝙒𝙤𝙡𝙛𝙬𝙤𝙤𝙙 𝘽𝙤𝙩"
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     OPENWEATHERMAP_ID = ""
     WEBHOOK = False
