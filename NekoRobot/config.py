@@ -22,7 +22,7 @@ class Config(object):
     MONGO_DB = "Wolfwood"
     HELP_IMG = ""
     TEMP_DOWNLOAD_DIRECTORY = "./"
-    MONGO_DB_URI = "mongodb+srv://sonu55:sonu55@cluster0.vqztrvk.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = ""
     OWNER_ID = 6299128233  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "BIackHatDev"
     SUPPORT_CHAT = ""  # Your own group for support, do not add the @
